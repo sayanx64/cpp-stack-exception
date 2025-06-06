@@ -8,8 +8,9 @@ A simple C++ program to implement a stack with custom exceptions for overflow an
 - Try-catch based error handling
 
 ## How to Run
-bash
+
 g++ stack.cpp -o stack
+
 ./stack
 
 output:
